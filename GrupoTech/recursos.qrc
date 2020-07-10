@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/impresora.png</file>
+        <file>recursos/salvar (1).png</file>
+        <file>recursos/cerrar (1).png</file>
+    </qresource>
+</RCC>
